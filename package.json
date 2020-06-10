@@ -95,7 +95,7 @@
   "main": ".postcssrc.js",
   "repository": {
     "type": "git",
-    "url": "git@newgit.op.ksyun.com:ksc-fe-dami/ksc-data-frame.git"
+    "url": "git@github.com:ksfe/fe-sub-frame.git"
   },
   "license": "ISC"
 }
